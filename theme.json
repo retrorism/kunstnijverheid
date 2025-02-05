@@ -1,0 +1,7 @@
+{
+	"styles": {
+		"css": ".tw-stretched-link:hover .tw-img-bw img,\n.tw-img-bw:hover img {\n    filter: none;\n}"
+	},
+	"version": 3,
+	"$schema": "https://schemas.wp.org/wp/6.7/theme.json"
+}
