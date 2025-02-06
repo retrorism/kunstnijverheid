@@ -11,5 +11,8 @@ https://wordpress.org/plugins/twentig
 Create Block Theme
 https://wordpress.org/plugins/create-block-theme
 
+Advanced Query Loop
+https://wordpress.org/plugins/advanced-query-loop
+
 Portfolio Meta
 https://github.com/retrorism/portfolio-meta
